@@ -1,0 +1,18 @@
+body {
+    color: white;
+}
+header {
+    background-color: #039;
+}
+aside {
+	background-color: yellow;
+}
+#section1 {
+	background-color: aqua;
+}
+#section2 {
+	background-color: beige;
+}
+footer {
+	background-color: blueviolet;
+}
