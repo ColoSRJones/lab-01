@@ -8,37 +8,38 @@
     position: relative;
     top: 50%;
     margin-top: -8px;
+    color: white;
   }
 
   header {
-    background-color: #d8d8d8;
+    background-color: #00a0a0;
     width: 480px;
     height: 75px;
-    border-left: 1px solid darkgray;
-    border-right: 1px solid darkgray;
-    border-top: 1px solid darkgray;
+    border-left: 1px solid #333366;
+    border-right: 1px solid #333366;
+    border-top: 1px solid #333366;
     margin: auto;
     box-sizing: border-box;
   }
 
   aside {
-    background-color: #d8d8d8;
+    background-color: #00a0a0;
     width: 480px;
     height: 150px;
-    border-left: 1px solid darkgray;
-    border-right: 1px solid darkgray;
-    border-top: 1px solid darkgray;
+    border-left: 1px solid #333366;
+    border-right: 1px solid #333366;
+    border-top: 1px solid #333366;
     margin: auto;
     box-sizing: border-box;
   }
 
   section {
-    background-color: #d8d8d8;
+    background-color: #00a0a0;
     width: 480px;
     height: 125px;
-    border-left: 1px solid darkgray;
-    border-right: 1px solid darkgray;
-    border-top: 1px solid darkgray;
+    border-left: 1px solid #333366;
+    border-right: 1px solid #333366;
+    border-top: 1px solid #333366;
     margin: auto;
     box-sizing: border-box;
   }
@@ -56,16 +57,16 @@
   }
 
   div section:nth-child(odd) {
-    border-left: 1px solid darkgray;
-    border-top: 1px solid darkgray;
+    border-left: 1px solid #333366;
+    border-top: 1px solid #333366;
     border-right: none;
   }
 
   footer {
-    background-color: #d8d8d8;
+    background-color: #00a0a0;
     width: 480px;
     height: 80px;
     margin: auto;
-    border: 1px solid darkgray;
+    border: 1px solid #333366;
   }
 }
